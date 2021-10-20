@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\break\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\break\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Platformer.-1071090124.00" t="ExcludeRecursive" />
+    <e p="D:\Программирование\Spectre-Studio\Unity\Platformer" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="EventsMonoBehaviour-master" t="Include">
+          <e p="scripts" t="Include">
+            <e p="CameraScript.cs" t="Include" />
+            <e p="events3" t="Include">
+              <e p="CardScript.cs" t="Include" />
+              <e p="SecondEvents.cs" t="Include" />
+            </e>
+            <e p="EventScript.cs" t="Include" />
+          </e>
+        </e>
+        <e p="scripts" t="Include">
+          <e p="Backend" t="Include">
+            <e p="FinishLevel.cs" t="Include" />
+            <e p="LevelManager.cs" t="Include" />
+            <e p="SaveStats.cs" t="Include" />
+          </e>
+          <e p="Collected things" t="Include">
+            <e p="RedCoinCollect.cs" t="Include" />
+            <e p="RingCollect.cs" t="Include" />
+          </e>
+          <e p="Controllers" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+          <e p="Emeralds" t="Include">
+            <e p="Emerald 1" t="Include">
+              <e p="EmeraldShot1.cs" t="Include" />
+              <e p="LapisLazuliOfFear.cs" t="Include" />
+            </e>
+            <e p="Emerald 2" t="Include">
+              <e p="EmeraldOfDespair.cs" t="Include" />
+              <e p="EmeraldShot2.cs" t="Include" />
+            </e>
+            <e p="Emerald 3" t="Include">
+              <e p="AmethystOfDespair.cs" t="Include" />
+              <e p="EmeraldShot3.cs" t="Include" />
+            </e>
+            <e p="Emerald 4" t="Include">
+              <e p="EmeraldShot4_1.cs" t="Include" />
+              <e p="EmeraldShot4_2.cs" t="Include" />
+              <e p="EmeraldShot4_3.cs" t="Include" />
+              <e p="SapphireOfDesires.cs" t="Include" />
+              <e p="SapphireOfDesires_Attack.cs" t="Include" />
+            </e>
+            <e p="Emerald 5" t="Include">
+              <e p="EmeraldShot5.cs" t="Include" />
+              <e p="TopazOfMadness.cs" t="Include" />
+            </e>
+            <e p="Emerald 6" t="Include">
+              <e p="EmeraldShot6.cs" t="Include" />
+              <e p="PrideDiamond.cs" t="Include" />
+            </e>
+            <e p="Emerald 7" t="Include">
+              <e p="EmeraldShot7.cs" t="Include" />
+              <e p="RubyOfWrath.cs" t="Include" />
+            </e>
+            <e p="Emeralds.cs" t="Include" />
+          </e>
+          <e p="HealthBar&amp;Stats" t="Include">
+            <e p="HealthStatsEnemy.cs" t="Include" />
+            <e p="HealthStatsPlayer.cs" t="Include" />
+            <e p="XpBar.cs" t="Include" />
+          </e>
+          <e p="MapZoom.cs" t="Include" />
+          <e p="MoveMap.cs" t="Include" />
+          <e p="Music Scripts" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="BackgroundInstanceControllerComponent.cs" t="Include" />
+            <e p="button_script.cs" t="Include" />
+            <e p="LevelMusicManager.cs" t="Include" />
+            <e p="SoundVolumeControllerComponent.cs" t="Include" />
+          </e>
+          <e p="Other" t="Include">
+            <e p="BluePortal.cs" t="Include" />
+            <e p="DestroyObjects.cs" t="Include" />
+            <e p="DestroyParts.cs" t="Include" />
+            <e p="FallenObstacle.cs" t="Include" />
+            <e p="GameMenu.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+            <e p="StatsCamera.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
+            <e p="Trampoline.cs" t="Include" />
+          </e>
+          <e p="Platforms" t="Include">
+            <e p="DethPlatform.cs" t="Include" />
+            <e p="FallingPlatformsMany.cs" t="Include" />
+            <e p="FallingPlatformsOnce.cs" t="Include" />
+            <e p="MovingCirclePlatform.cs" t="Include" />
+            <e p="MovingLeftRightPlatform.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Platformer.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

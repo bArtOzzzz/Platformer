@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - movingPlatform
+  - BluePortalEnter
+  - BluePortalOutput
+  - Death
+  - Ring
+  - Trampoline
+  - Enemy
+  - BG_Music_Volume_Text
+  - BG_MUSIC_VOLUME_SLIDER
+  - BG_SOUND_VOLUME_SLIDER
+  - BG_Sound_Volume_Text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Nointeract
+  - Player
+  - Enemy
+  - Edge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
